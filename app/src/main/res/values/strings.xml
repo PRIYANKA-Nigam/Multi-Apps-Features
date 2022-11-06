@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DarkMode</string>
+    <string name="dark"><u>This is to test Dark Mode</u></string>
+    <string name="title_activity_maps">Map</string>
+</resources>
